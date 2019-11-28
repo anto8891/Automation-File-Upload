@@ -41,7 +41,7 @@ public void reportspage() throws InterruptedException, IOException {
 	String line = reader.readLine();
 	
 	if(line == d) {
-		System.out.println(line);
+		System.out.println(d);
 		
 		System.out.println("No Errors Found");
 	}
