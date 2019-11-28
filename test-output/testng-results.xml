@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="219453" started-at="2019-11-28T07:10:49Z" finished-at="2019-11-28T07:14:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="219453" started-at="2019-11-28T07:10:49Z" finished-at="2019-11-28T07:14:29Z">
+      <class name="CDQM.Test.Reports">
+        <test-method status="PASS" signature="home()[pri:0, instance:CDQM.Test.Reports@23ceabc1]" name="home" is-config="true" duration-ms="199955" started-at="2019-11-28T07:10:49Z" finished-at="2019-11-28T07:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="reports()[pri:0, instance:CDQM.Test.Reports@23ceabc1]" name="reports" duration-ms="10600" started-at="2019-11-28T07:14:09Z" finished-at="2019-11-28T07:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method status="PASS" signature="reportspage()[pri:0, instance:CDQM.Test.Reports@23ceabc1]" name="reportspage" duration-ms="8799" started-at="2019-11-28T07:14:20Z" finished-at="2019-11-28T07:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportspage -->
+      </class> <!-- CDQM.Test.Reports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
